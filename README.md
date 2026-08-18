@@ -244,3 +244,9 @@ else:
 - 计算结果用于排序、评分和报告展示
 
 系统对这些指标的利用是**完整且合理**的。
+
+
+## 特别感谢
+https://linux.do 社区支持
+
+https://github.com/liangdabiao/xhs-business-validator-skill  skill版本 
